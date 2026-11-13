@@ -1,0 +1,3 @@
+# AI Usage
+
+GitHub Copilot assisted with translating the assignment specification into an implementation outline, generating an initial Python/SQLite pipeline and focused tests, and reviewing edge cases around normalization, deduplication, delayed event linking, and report aggregation. The submitted implementation and its behavior were checked against the supplied schemas and synthetic-data generator; the author remains responsible for final correctness and review.
